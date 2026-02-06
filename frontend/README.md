@@ -1,16 +1,58 @@
-# React + Vite
+A personal collection of notes and examples for **JavaScript** and **React.js**, compiled from O’Reilly tutorials and practice projects. This repository is designed to help understand core web development concepts, coding patterns, and best practices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📚 Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. JavaScript Basics
+- Variables (`var`, `let`, `const`)
+- Data Types (Number, String, Boolean, Object, Array)
+- Functions (Normal, Arrow, Callback)
+- Scope & Closures
+- `this` keyword
+- Arrays & Methods (`map`, `filter`, `reduce`, `join`, `forEach`)
+- Objects & Object Methods
+- Template Literals
+- ES6 Features (Destructuring, Spread, Rest)
+- DOM Manipulation
+- Events and Event Handling
+- Timers (`setTimeout`, `setInterval`)
 
-## React Compiler
+### 2. React
+- JSX
+- Components (Functional & Class)
+- Props & State
+- Event Handling
+- Conditional Rendering
+- Lists and Keys
+- Forms and Controlled Components
+- Hooks
+  - `useState`, `useEffect`, `useRef`
+  - `useContext`, `useReducer`
+- Context API
+- React Router
+- Error Boundaries
+- Styling
+  - CSS Modules
+  - Styled Components
+  - Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 3. Projects & Examples
+- Counter App
+- Todo App
+- GitHub Notes App
+- Mini Dashboard Examples
 
-## Expanding the ESLint configuration
+### 4. Tips & Tricks
+- Common pitfalls in JS and React
+- Best practices
+- Performance optimization
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/web-development-notes.git
