@@ -1,5 +1,5 @@
 A personal collection of notes and examples for **JavaScript** and **React.js**, compiled from O’Reilly tutorials and practice projects. This repository is designed to help understand core web development concepts, coding patterns, and best practices.
-
+CREDITS TO-O'Reilly Learning React
 ---
 
 ## 📚 Contents
