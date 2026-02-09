@@ -97,8 +97,8 @@ function BasicsOfJavascript() {
   can be written as-
 
   var work=firstname=>{firstname}; 
-  so what ever the paramter that is taken by the function is written after the equal to sign and the thing that is returned is 
-  written after the arrow mark. Now since we are taking only the firstname as the parameter we have not used parenthesis.
+  so what ever the paramter that is taken by the function work is written after the equal to sign and the function definition is
+  after the arrow mark. Now since we are taking only the firstname as the parameter we have not used parenthesis.
 
   var work=(firstname, lastname)={`${firstname} ${lastname}`}
 
